@@ -8,9 +8,6 @@
 - 유저가 상업영화를 선택하면 그와 유사하며 작품성 있는 독립영화를 추천합니다.<br />
 - 이를 기반으로 독립영화 큐레이션 및 상세 페이지와 영화제 정보를 제공합니다.
 
-<img src="https://kdt-gitlab.elice.io/003-part3-ottservice/team13/project-template/-/raw/47fb769d71ea4f8e21647a66650a81f72027e679/project-dancingMachine-logo.png" alt="project-dancingMachine-logo" width="500px">
-
-> (영화 #f15a24, 밭 #fcee21, dot #000000)
 
 ## 1. 소개 Introduce
 
